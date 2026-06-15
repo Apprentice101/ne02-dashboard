@@ -1,0 +1,917 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T19:45:00Z",
+  "exportedAt": "2026-06-12T19:06:10.210Z",
+  "districtCode": "NE-02",
+  "data": {
+    "DISTRICT": {
+      "id": "ne-02",
+      "districtNumber": "NE-02",
+      "districtName": "Nebraska's 2nd Congressional District",
+      "state": "Nebraska",
+      "counties": [
+        "Douglas (full)",
+        "Sarpy (western portion)",
+        "Saunders (full)"
+      ],
+      "majorPlaces": [
+        "Omaha",
+        "Bellevue",
+        "Papillion",
+        "Gretna",
+        "Wahoo",
+        "La Vista"
+      ],
+      "cycleYear": 2026,
+      "population": 685000,
+      "registeredVoters": 295000,
+      "partyRegistration": [
+        {
+          "label": "Republican",
+          "count": 107000,
+          "pct": 36.3
+        },
+        {
+          "label": "Democratic",
+          "count": 95000,
+          "pct": 32.2
+        },
+        {
+          "label": "Nonpartisan",
+          "count": 78000,
+          "pct": 26.4
+        },
+        {
+          "label": "Other",
+          "count": 15000,
+          "pct": 5.1
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — NE-02",
+        "winner": {
+          "name": "Don Bacon (R)",
+          "pct": 51,
+          "votes": 108000
+        },
+        "runnerUp": {
+          "name": "Carol Blood (D)",
+          "pct": 49,
+          "votes": 103000
+        },
+        "turnoutPct": 64
+      }
+    },
+    "SOURCES": {
+      "src-ne-sos-elections": {
+        "id": "src-ne-sos-elections",
+        "name": "Nebraska Secretary of State — Elections Division",
+        "short": "NE SOS Elections",
+        "url": "https://sos.nebraska.gov/elections-division",
+        "publisher": "Nebraska Secretary of State (Bob Evnen through Jan 2027)",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ne-sos-register": {
+        "id": "src-ne-sos-register",
+        "name": "Nebraska Secretary of State — Online Voter Registration",
+        "short": "NE Voter Registration",
+        "url": "https://www.nebraska.gov/apps-sos-voter-registration/",
+        "publisher": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ne-sos-results": {
+        "id": "src-ne-sos-results",
+        "name": "Nebraska Secretary of State — Election Results",
+        "short": "NE SOS Results",
+        "url": "https://electionresults.nebraska.gov",
+        "publisher": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ne-rev-stat-32": {
+        "id": "src-ne-rev-stat-32",
+        "name": "Nebraska Revised Statutes — Chapter 32 (Elections)",
+        "short": "Neb. Rev. Stat. Ch. 32",
+        "url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=32",
+        "publisher": "Nebraska Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-douglas-elections": {
+        "id": "src-douglas-elections",
+        "name": "Douglas County Election Commission",
+        "short": "Douglas Elections",
+        "url": "https://www.votedouglascounty-ne.gov",
+        "publisher": "Douglas County Election Commission",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "12220 W Center Road, Omaha, NE 68144. Phone: (402) 444-8683. Douglas County accounts for ~93% of NE-02 votes."
+      },
+      "src-sarpy-elections": {
+        "id": "src-sarpy-elections",
+        "name": "Sarpy County Election Commission",
+        "short": "Sarpy Elections",
+        "url": "https://www.sarpy.gov/elections",
+        "publisher": "Sarpy County Election Commission",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "1102 E. First St., Papillion, NE. Phone: (402) 593-2167. Only western Sarpy precincts are in NE-02."
+      },
+      "src-saunders-clerk": {
+        "id": "src-saunders-clerk",
+        "name": "Saunders County Clerk — Elections",
+        "short": "Saunders Clerk",
+        "url": "https://www.saunderscountyne.gov/county-clerk",
+        "publisher": "Saunders County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Saunders County added to NE-02 by 2021 redistricting (LB1). Heavily Republican rural county."
+      },
+      "src-ballotpedia-ne02": {
+        "id": "src-ballotpedia-ne02",
+        "name": "Ballotpedia — Nebraska's 2nd Congressional District election, 2026",
+        "short": "Ballotpedia NE-02",
+        "url": "https://ballotpedia.org/Nebraska%27s_2nd_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ne-public-media": {
+        "id": "src-ne-public-media",
+        "name": "Nebraska Public Media — News & Politics",
+        "short": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/",
+        "publisher": "Nebraska Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ne-examiner": {
+        "id": "src-ne-examiner",
+        "name": "Nebraska Examiner — Nonpartisan news",
+        "short": "Nebraska Examiner",
+        "url": "https://nebraskaexaminer.com/",
+        "publisher": "Nebraska Examiner",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-omaha-world-herald": {
+        "id": "src-omaha-world-herald",
+        "name": "Omaha World-Herald — Nebraska elections coverage",
+        "short": "Omaha World-Herald",
+        "url": "https://omaha.com/",
+        "publisher": "Omaha World-Herald",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-brennan-center": {
+        "id": "src-brennan-center",
+        "name": "Brennan Center for Justice — State Voting Laws Roundup May 2026",
+        "short": "Brennan Center",
+        "url": "https://www.brennancenter.org/our-work/research-reports/state-voting-laws-roundup-may-2026",
+        "publisher": "Brennan Center for Justice",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Source for LB 1075 provisional ballot cure period reduction (7→3 days)."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-ne02-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-04-17",
+        "significance": "Last day to register to vote for the May 12, 2026 Nebraska primary election. Nebraska requires registration 25 days before election day. No same-day registration in Nebraska.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-primary-early-start",
+        "milestone": "In-person early voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-04-13",
+        "significance": "Nebraska no-excuse in-person early voting at county election offices begins 30 days before election day. Douglas, Sarpy, and Saunders county offices accept in-person absentee votes starting approximately April 13, 2026.",
+        "governingAuthority": "Douglas County Election Commission; Sarpy County Election Commission; Saunders County Clerk",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-douglas-elections",
+          "src-sarpy-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-primary-absentee-request-deadline",
+        "milestone": "Absentee ballot request deadline (by mail) — primary",
+        "electionType": "primary",
+        "date": "2026-05-01",
+        "significance": "Last day to request an absentee ballot by mail for the May 12, 2026 primary (second Friday before election day, per Neb. Rev. Stat. § 32-952). In-person absentee continues at county offices through Monday before election day.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-05-12",
+        "significance": "Nebraska statewide primary. Polls open 8 AM – 8 PM. NE-02 D primary: Denise Powell 38.7% (~22,270 votes), John Cavanaugh 36.4% (~20,923 votes), Crystal Rhoades trailing. R primary: Brinker Harding ran unopposed. Libertarian: Eric Michael Foreman certified for general.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-sos-results",
+          "src-ballotpedia-ne02"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-ne02-primary-absentee-receipt",
+        "milestone": "Absentee ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-05-12",
+        "significance": "Nebraska absentee ballots must be RECEIVED by the county election office by close of polls on Election Day (8 PM, May 12). A postmark alone is not sufficient — physical receipt is required.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-primary-canvass",
+        "milestone": "Board of State Canvassers certification — primary",
+        "electionType": "primary",
+        "date": "2026-06-08",
+        "significance": "Nebraska Board of State Canvassers unanimously certified the May 12, 2026 primary results on June 8, 2026. A hand-count audit of 3% of precincts (7,317 ballots, 37 counties) found only three minor discrepancies — a 0.0004% error rate. Denise Powell (D) and Brinker Harding (R) officially locked in as NE-02 nominees.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-sos-results",
+          "src-ballotpedia-ne02"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-ne02-general-early-absentee-request-opens",
+        "milestone": "Absentee ballot requests open — general",
+        "electionType": "general",
+        "date": "2026-07-06",
+        "significance": "First day Nebraska county election offices may accept early voting ballot requests for the November 3, 2026 general election, per Nebraska Secretary of State calendar (120 days before election day).",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-09",
+        "significance": "Last day to register to vote for the November 3, 2026 general election — 25 days before election day. Register online at nebraska.gov or in person at the county election office. No same-day registration in Nebraska.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-sos-register",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-early-start",
+        "milestone": "In-person early voting begins — general",
+        "electionType": "general",
+        "date": "2026-10-04",
+        "significance": "No-excuse in-person early voting at county election offices begins 30 days before the general election (approximately October 4, 2026). Douglas County Election Commission and Sarpy County Election Commission accept in-person absentee ballots during business hours.",
+        "governingAuthority": "Douglas County Election Commission; Sarpy County Election Commission; Saunders County Clerk",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-douglas-elections",
+          "src-sarpy-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-drop-boxes-open",
+        "milestone": "Secure drop boxes open — general",
+        "electionType": "general",
+        "date": "2026-09-25",
+        "significance": "Secure ballot drop boxes open across Nebraska counties for the general election, per the Secretary of State drop box locator calendar (approximately 39 days before election day). Drop box locations: https://sos.nebraska.gov/elections/nebraska-drop-box-locator. Under LB 1075 (2026), petition circulation is prohibited within 25 feet of any drop box.",
+        "governingAuthority": "Nebraska Secretary of State; Douglas County Election Commission",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-douglas-elections",
+          "src-sarpy-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-absentee-request-deadline",
+        "milestone": "Absentee ballot request deadline (by mail) — general",
+        "electionType": "general",
+        "date": "2026-10-23",
+        "significance": "Last day to request an absentee ballot by mail for the November 3 general election — the second Friday before election day (Neb. Rev. Stat. § 32-952). Voters may still request in-person absentee at county offices through the Monday before election day (Nov 2).",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. NE-02: Denise Powell (D) vs. Brinker Harding (R) vs. Eric Michael Foreman (L). Polls open 8 AM – 8 PM Central. Strict photo ID required under LB 514 (2024). NE-02 is Nebraska's separate Electoral Vote district — rated Lean Democratic (Cook, D+3 PVI).",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ballotpedia-ne02",
+          "src-douglas-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-absentee-receipt",
+        "milestone": "Absentee ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Nebraska absentee ballots must be RECEIVED at the county election office by close of polls (8 PM) on Election Day, November 3, 2026. A postmark alone does not count. Ballots received after 8 PM on Election Day will not be counted regardless of postmark.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-provisional-cure-deadline",
+        "milestone": "Provisional ballot ID cure deadline — general",
+        "electionType": "general",
+        "date": "2026-11-06",
+        "significance": "Under LB 1075 (2026), voters who cast a provisional ballot without valid photo ID have 3 days (reduced from the prior 7-day window) to present qualifying ID to the county election office for their ballot to be counted. Deadline is approximately November 6, 2026. Applies to both Douglas and Sarpy county provisional voters.",
+        "governingAuthority": "Nebraska Secretary of State; Douglas County Election Commission; Sarpy County Election Commission",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32",
+          "src-brennan-center"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "Nebraska county election offices must complete the official canvass and certify results within approximately 21 days of election day. County results are submitted to the Secretary of State for statewide certification.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ne02-general-sos-certification",
+        "milestone": "Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-12-01",
+        "significance": "Nebraska Secretary of State certifies official statewide results, including the NE-02 general election outcome and NE-02's separate Electoral Vote allocation. Incoming SOS Scott Petersen takes office January 2027.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-ne-voter-id",
+        "topic": "Strict photo voter ID requirement (LB 514, 2023/2024)",
+        "currentRule": "Nebraska requires a qualifying government-issued photo ID to vote in person. LB 514 was enacted in 2023 and fully implemented beginning with the May 14, 2024 primary. Acceptable IDs include Nebraska driver's license, state ID, passport, military ID, and tribal ID. Voters without qualifying photo ID may complete a Reasonable Impediment Certificate to cast a provisional ballot, which must be cured within 3 days (see LB 1075 below).",
+        "status": "active",
+        "whyItMatters": "Every in-person NE-02 voter — at polls in Douglas, Sarpy, or Saunders counties — must present qualifying photo ID or cast a provisional ballot subject to the 3-day cure window. This is a strict-ID state with no non-photo alternatives at the polls for most voters.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32",
+          "src-brennan-center"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-318.01 (LB 514, 2023). Fully implemented May 14, 2024 primary. Free state IDs available from DMV for qualified voters who lack acceptable ID."
+      },
+      {
+        "id": "rule-ne-provisional-cure-period",
+        "topic": "Provisional ballot ID cure window — 3 days (LB 1075, 2026)",
+        "currentRule": "Under LB 1075 (2026), voters who cast a provisional ballot without presenting a valid photo ID have 3 calendar days after election day to present qualifying ID at the county election office for their ballot to be counted. This reduced the prior cure window from 7 days to 3 days. Effective for the November 2026 general election.",
+        "status": "active",
+        "whyItMatters": "Critically tightened remedy for NE-02 voters who cannot produce ID at the polls. Douglas County alone saw hundreds of provisional ballots in the May 2026 primary. A 3-day (vs. prior 7-day) window sharply reduces the time voters have to present ID. Brennan Center flags this as one of the most restrictive cure windows in the country.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32",
+          "src-brennan-center"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "LB 1075 (2026). The same bill also repealed a requirement that voters registering simultaneously with a mail ballot request furnish additional identifying documents."
+      },
+      {
+        "id": "rule-ne-absentee-no-excuse",
+        "topic": "No-excuse absentee / vote-by-mail voting",
+        "currentRule": "Any registered Nebraska voter may vote by absentee ballot without providing a reason. Absentee ballot requests are accepted beginning 120 days before election day. The last day to request by mail is the second Friday before the election (October 23, 2026 for the general). Ballots must be RECEIVED by the county election office by close of polls on Election Day — postmark alone does not count.",
+        "status": "active",
+        "whyItMatters": "NE-02 voters in Omaha (Douglas County) and Papillion/Bellevue (Sarpy County) may vote by mail with no excuse. The strict receipt deadline (no postmark rule) means voters who mail late may not have their ballots counted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32",
+          "src-douglas-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. §§ 32-941, 32-952. Nebraska does not automatically mail ballots to all voters — voters must request an absentee ballot. No automatic mail-ballot program."
+      },
+      {
+        "id": "rule-ne-inperson-early-voting",
+        "topic": "In-person early voting at county election offices",
+        "currentRule": "Nebraska offers no-excuse in-person early voting at each county election office beginning 30 days before election day. For the November 3, 2026 general election, in-person early voting begins approximately October 4 and continues through the close of business on the Monday before Election Day (November 2). Voter must appear in person at their county's election office.",
+        "status": "active",
+        "whyItMatters": "Douglas County Election Commission (Omaha) and Sarpy County Election Commission (Papillion) both offer in-person early voting. This is the primary alternative to mail-in absentee for NE-02 voters who prefer in-person voting before Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-douglas-elections",
+          "src-sarpy-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-941. In-person early voters must also present photo ID under LB 514."
+      },
+      {
+        "id": "rule-ne-registration-deadline",
+        "topic": "Voter registration deadline — 25 days before election",
+        "currentRule": "Nebraska's voter registration deadline is 25 days before the election: October 9, 2026 for the November 3 general election. Voters may register online, by mail, or in person at the county election office. Nebraska has no same-day or Election Day voter registration. Online registration: nebraska.gov.",
+        "status": "active",
+        "whyItMatters": "NE-02 voters who are unregistered or need to update their registration (e.g., new address, name change) must act by October 9, 2026. Nebraska does not allow conditional or same-day registration.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-sos-register",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-302. Nebraska does not have automatic voter registration. Registration is not automatically triggered by DMV transactions."
+      },
+      {
+        "id": "rule-ne-no-automatic-registration",
+        "topic": "No automatic voter registration in Nebraska",
+        "currentRule": "Nebraska does not have automatic voter registration (AVR). Voters must affirmatively register. The DMV does not automatically forward voter registration information. LB 1075 (2026) repealed a separate requirement that voters who register simultaneously with a mail ballot request submit additional ID documents.",
+        "status": "active",
+        "whyItMatters": "NE-02 has a competitive electorate and a high-density urban core in Omaha. New residents and young voters must proactively register — they are not enrolled automatically through state agency interactions.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Nebraska enacted AVR provisions were not in effect as of 2026. The LB 1075 (2026) change to simultaneous-mail-registration ID requirements was a narrowing, not an expansion, of voter access."
+      },
+      {
+        "id": "rule-ne-drop-boxes",
+        "topic": "Secure ballot drop boxes",
+        "currentRule": "Secure ballot drop boxes are available across Nebraska counties for returning absentee ballots. The Nebraska Secretary of State publishes a drop box locator at https://sos.nebraska.gov/elections/nebraska-drop-box-locator. Douglas County opens drop boxes approximately 39 days before the general election (around September 25, 2026). LB 1075 (2026) prohibits petition circulation within 25 feet of any official ballot drop box.",
+        "status": "active",
+        "whyItMatters": "NE-02 voters in Omaha and suburban Douglas/Sarpy County may return absentee ballots to a drop box rather than mailing them, avoiding the risk of late delivery. The strict receipt-by-polls-close rule makes drop boxes especially important close to the deadline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-douglas-elections",
+          "src-sarpy-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "LB 1075 (2026) added the 25-foot drop-box buffer zone. Drop box locations and hours published by each county election office closer to the election."
+      },
+      {
+        "id": "rule-ne-provisional-ballots",
+        "topic": "Provisional ballots — eligibility and process",
+        "currentRule": "A provisional ballot is issued when a voter's eligibility cannot be immediately verified at the polls — including voters who lack qualifying photo ID (Reasonable Impediment Certificate), voters whose names do not appear on the poll book, or first-time voters with unverified registration. Provisional ballots are counted during the canvass after eligibility and, where applicable, photo ID presentation within 3 days are confirmed.",
+        "status": "active",
+        "whyItMatters": "Provisional ballots are directly affected by LB 514 (photo ID) and LB 1075 (3-day cure window). In the May 2026 primary, Douglas County reported hundreds of provisional ballots and Sarpy County reported 152 outstanding provisional ballots. With NE-02 expected to be highly competitive in November, provisional ballot counts could affect the outcome.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32",
+          "src-douglas-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-1002. Voters issued provisional ballots receive a receipt with information on how to confirm their ballot was counted. Cure period under LB 1075 is 3 days post-election."
+      },
+      {
+        "id": "rule-ne-absentee-receipt-no-postmark",
+        "topic": "Absentee ballot receipt rule — no postmark extension",
+        "currentRule": "Nebraska does not accept late-arriving absentee ballots postmarked by Election Day. All absentee ballots must be physically received at the county election office by the close of polls (8 PM) on Election Day, November 3, 2026. Ballots arriving after polls close — regardless of postmark — are not counted.",
+        "status": "active",
+        "whyItMatters": "This is a strict rule that differs from several other states. NE-02 mail-in voters who wait until the last week to return ballots by USPS face meaningful risk. The Douglas County drop box network is the recommended alternative for last-minute returns.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-955. Contrast with California's 7-day postmark extension. Nebraska's rule is among the stricter in the country."
+      },
+      {
+        "id": "rule-ne-mail-ballot-exec-order",
+        "topic": "Presidential executive order on mail ballot records — compliance pending",
+        "currentRule": "Nebraska Secretary of State Bob Evnen announced in June 2026 that Nebraska will comply with a presidential executive order on election integrity for November 2026, including providing the federal government a list of all mail-ballot requesters and voters. Evnen stated compliance will be straightforward as Nebraska already meets many of the order's requirements. Legal challenges to the executive order are pending in federal courts.",
+        "status": "watch",
+        "whyItMatters": "NE-02 absentee/mail voters' information may be reported to the federal government under this executive order. The outcome of federal litigation challenging the order could affect its implementation before November 2026.",
+        "governingLevel": "federal",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-public-media"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Evnen is in his final months; Scott Petersen (R, defeated Evnen in May 2026 primary) takes office January 2027. Final implementation guidance on this order may fall to the incoming SOS."
+      },
+      {
+        "id": "rule-ne-electoral-vote-split",
+        "topic": "Nebraska allocates one Electoral Vote by congressional district",
+        "currentRule": "Nebraska uses the congressional district method for allocating Electoral College votes. NE-02 awards one Electoral Vote (EV) to the presidential candidate who wins the 2nd Congressional District. NE-02 awarded its EV to Biden in 2020 and Harris in 2024. The district is considered a competitive EV target in presidential years.",
+        "status": "active",
+        "whyItMatters": "NE-02 is one of only two congressional districts in the country (with ME-02) that can split its Electoral Vote from the state's other EVs. This makes NE-02 a perennial national spotlight district, increasing voter engagement and outside spending in House races.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-rev-stat-32",
+          "src-ballotpedia-ne02"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-714. Nebraska allocates two EVs statewide plus one per congressional district. NE-02 has voted for the Democratic presidential candidate in each of the last two presidential elections."
+      },
+      {
+        "id": "rule-ne-polling-place-hours",
+        "topic": "Polling place hours — 8 AM to 8 PM",
+        "currentRule": "Nebraska polling places are open from 8:00 AM to 8:00 PM Central Time on Election Day. Voters who are in line at 8:00 PM are entitled to vote. All three NE-02 counties (Douglas, Sarpy, Saunders) follow the statewide hours.",
+        "status": "active",
+        "whyItMatters": "NE-02 voters should note Nebraska's 8 AM open time — later than some states. The 8 PM closing time for both polls and absentee ballot receipt is the hard deadline for all Election Day voting activity.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-rev-stat-32"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Neb. Rev. Stat. § 32-903. All times Central. Voters in line at 8:00 PM are entitled to complete voting."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-ne-sos-elections",
+        "label": "Nebraska Secretary of State — Elections Division",
+        "url": "https://sos.nebraska.gov/elections-division",
+        "description": "Official Nebraska elections hub: voter registration, election calendar, results, drop box locator, and 2026 voting rules. Authoritative source for NE-02 election deadlines and procedures. Phone: (402) 471-2555.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ne-sos-register",
+        "label": "Nebraska online voter registration portal",
+        "url": "https://www.nebraska.gov/apps-sos-voter-registration/",
+        "description": "Register to vote or update your registration online. Deadline for 2026 general election: October 9, 2026. No same-day registration in Nebraska.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-register",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ne-sos-results",
+        "label": "Nebraska SOS — Live Election Results",
+        "url": "https://electionresults.nebraska.gov",
+        "description": "Real-time and official election results from the Nebraska Secretary of State, updated throughout the canvass period. Shows NE-02 district-level results for primary and general.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-results",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ne-drop-box-locator",
+        "label": "Nebraska Drop Box Locator",
+        "url": "https://sos.nebraska.gov/elections/nebraska-drop-box-locator",
+        "description": "Official map of secure ballot drop box locations across Nebraska counties, including Douglas and Sarpy counties. Updated each election cycle by the Secretary of State.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-douglas-elections",
+        "label": "Douglas County Election Commission",
+        "url": "https://www.votedouglascounty-ne.gov",
+        "description": "Official elections page for Douglas County (Omaha) — the county containing ~93% of NE-02 voters. Polling place lookup, absentee ballot requests, drop box locations, and canvass updates. 12220 W Center Rd, Omaha. Phone: (402) 444-8683.",
+        "governingAuthority": "Douglas County Election Commission",
+        "sourceType": "official-county",
+        "sourceId": "src-douglas-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-sarpy-elections",
+        "label": "Sarpy County Election Commission",
+        "url": "https://www.sarpy.gov/elections",
+        "description": "Official elections page for Sarpy County (Papillion, Bellevue, Gretna area). Western Sarpy precincts are in NE-02. Absentee ballot requests, drop box locations. 1102 E. First St., Papillion. Phone: (402) 593-2167.",
+        "governingAuthority": "Sarpy County Election Commission",
+        "sourceType": "official-county",
+        "sourceId": "src-sarpy-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-saunders-clerk",
+        "label": "Saunders County Clerk — Elections",
+        "url": "https://www.saunderscountyne.gov/county-clerk",
+        "description": "Official elections page for Saunders County, which was added to NE-02 in the 2021 redistricting (LB1). Wahooo area. Absentee ballot requests and election information for Saunders County NE-02 voters.",
+        "governingAuthority": "Saunders County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-saunders-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-ne02",
+        "label": "Ballotpedia — NE-02 2026 election",
+        "url": "https://ballotpedia.org/Nebraska%27s_2nd_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference for NE-02's 2026 election: candidate profiles (Powell, Harding, Foreman), primary results, race ratings, campaign finance summary, and district background.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-ne02",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ne-voter-id-guide",
+        "label": "Nebraska Voter ID information — SOS",
+        "url": "https://sos.nebraska.gov/elections/voter-id",
+        "description": "Official Nebraska Secretary of State guide to acceptable photo IDs under LB 514 (2023/2024). Includes information on free state IDs and the Reasonable Impediment Certificate process for voters without qualifying ID.",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-elections",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-ne02-001",
+        "title": "NE-02 dashboard initialized — 12 sources, 16 events, 12 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. All 12 sources (NE SOS, Douglas/Sarpy/Saunders county elections, NE Rev. Stat., Ballotpedia, Nebraska Public Media, Nebraska Examiner, Omaha World-Herald, Brennan Center) verified reachable. All 16 election events and 12 voting rules researched from NE SOS and Nebraska Revised Statutes Ch. 32, but all marked needsReview/unconfirmed pending authoritative confirmation from Douglas, Sarpy, and Saunders county election offices.",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-douglas-elections",
+          "src-sarpy-elections",
+          "src-saunders-clerk"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-ne02-002",
+        "title": "NE-02 primary certified — Powell (D) and Harding (R) advance to November general",
+        "fieldChanged": "General election candidates",
+        "oldValue": "Primary pending (May 12, 2026)",
+        "newValue": "Denise Powell (D, activist/EMILY's List, 38.7%) and Brinker Harding (R, Trump-endorsed, unopposed) certified as NE-02 nominees June 8, 2026. Eric Michael Foreman (Libertarian) also certified for general. Powell is first Latina Democratic nominee for NE-02. Board of State Canvassers unanimously certified results with 0.0004% error rate on audit.",
+        "sourceIds": [
+          "src-ne-sos-elections",
+          "src-ne-sos-results",
+          "src-ballotpedia-ne02"
+        ],
+        "detectedAt": "2026-06-08T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-ne02-003",
+        "title": "All rules and event dates flagged for county-level verification",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "12 voting rules and 16 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Key items requiring county verification: (1) LB 1075 provisional ballot cure period implementation guidance from Douglas and Sarpy counties; (2) specific drop box opening dates and locations for general election; (3) exact in-person early voting hours at all three county offices.",
+        "sourceIds": [
+          "src-ne-rev-stat-32",
+          "src-ne-sos-elections",
+          "src-douglas-elections"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-ne02-001",
+        "factInQuestion": "Whether Douglas County and Sarpy County have issued voter-facing guidance on the LB 1075 (2026) provisional ballot ID cure period reduction from 7 days to 3 days for the November 2026 general election",
+        "sourceAId": "src-brennan-center",
+        "sourceAClaim": "Brennan Center for Justice (May 19, 2026) reports Nebraska's LB 1075 shortened the provisional ballot cure period from seven days to three days, effective for upcoming elections, and flags this as among the most restrictive provisional ballot remedy windows in the country. The change applies to voters who cast provisionals due to lack of qualifying photo ID under LB 514.",
+        "sourceBId": "src-ne-sos-elections",
+        "sourceBClaim": "Nebraska Secretary of State Bob Evnen, at the June 8, 2026 canvass certification, stated the May primary 'ran very smoothly' with near-zero error rates. However, as of June 11, 2026, neither Douglas County Election Commission nor Sarpy County Election Commission has published publicly available guidance specifically addressing the new 3-day cure window for voters in the November 2026 general election — despite both counties producing high volumes of provisional ballots in the May 2026 primary (5,032 outstanding Douglas County Democratic mail-in ballots and 152 Sarpy provisional ballots on primary night).",
+        "whyItMatters": "NE-02 is rated Lean Democratic (Cook D+3 PVI) and is one of the most watched House races of 2026. In a close general election, the difference between a 7-day and 3-day cure window could be outcome-determinative if thousands of provisional ballots are cast in Douglas County. Inconsistent notification between urban Douglas County and suburban Sarpy County would be actionable and could trigger litigation.",
+        "suggestedReviewAction": "Confirm directly with Douglas County Election Commission and Sarpy County Election Commission that they have issued (or will issue before November) voter-facing materials explaining the new 3-day cure window. Verify whether each county is conducting public outreach to provisional ballot voters specifically about the shortened timeline. Update this conflict to 'under_review' once county offices respond.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T19:45:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-ne02-001",
+        "headline": "Nebraska secretary of state plans to comply with presidential election order on mail voting",
+        "sourceName": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-secretary-of-state-plans-to-comply-with-presidential-election-order/",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "Secretary of State Bob Evnen announced Nebraska will comply with President Trump's executive order on election integrity for the November 2026 general election, including providing the federal government a list of all mail-ballot requesters and voters. Evnen, who is in his final months after losing the May primary, said compliance will be straightforward since Nebraska already meets many of the order's requirements. Voting groups have filed suit over the executive order, and legal challenges remain pending before federal courts.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-002",
+        "headline": "Board of State Canvassers reviews and certifies the 2026 Nebraska primary election results",
+        "sourceName": "Nebraska Secretary of State (official Facebook / news release)",
+        "url": "https://www.facebook.com/NebraskaSOS/posts/news-release-board-of-state-canvassers-reviews-and-certifies-the-2026-primary-el/1347648074209753/",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "The Nebraska Board of State Canvassers unanimously certified the May 12, 2026 primary election results on June 8, formally locking in Denise Powell (D) and Brinker Harding (R) as the NE-02 nominees. A hand-count audit of 3% of precincts (7,317 ballots across 37 counties) found only three minor discrepancies, yielding a 0.0004% error rate. The Secretary of State's office noted only one reported procedural issue statewide — a ballot-face error in Washington County that did not affect any race outcome.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-003",
+        "headline": "Nebraska officials certify May 12 primary results that ran 'very smoothly'",
+        "sourceName": "Nebraska Examiner (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/politics/articles/nebraska-officials-certify-results-may-212630357.html",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "Secretary of State Bob Evnen presided over certification of his own defeat to Republican Scott Petersen, who will take over the office in January 2027. The certification board confirmed NE-02 candidates and all four federal races without incident. Evnen vowed to run elections by the same standard through the November general, including the upcoming NE-02 House race.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-004",
+        "headline": "Political organizer Denise Powell wins Democratic primary in key Nebraska House race",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/13/us/politics/denise-powell-nebrasaka-house-don-bacon.html",
+        "publishedAt": "2026-05-14",
+        "relevanceSummary": "Denise Powell, a political activist and founder of a PAC to elect female candidates in Nebraska, defeated State Sen. John Cavanaugh and District Court Clerk Crystal Rhoades to win the Democratic nomination for NE-02. Powell prevailed by approximately 2 percentage points (final unofficial: 22,270 to 20,923) in a race that drew more than $5.6 million in outside spending. She will face Trump-endorsed Republican Omaha City Councilman Brinker Harding in the November general election for the open seat vacated by retiring Rep. Don Bacon.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-005",
+        "headline": "Republican CD2 nominee Brinker Harding misses filing deadlines for personal financial disclosures",
+        "sourceName": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/republican-cd2-nominee-brinker-harding-misses-filing-deadlines-for-personal-financial-disclosures/",
+        "publishedAt": "2026-05-21",
+        "relevanceSummary": "Brinker Harding, the Republican nominee for NE-02, had not filed either of his required House candidate personal financial disclosure reports as of May 21 — one of which was due August 1, 2025, more than nine months earlier. Under the Ethics in Government Act, knowing failure to file can trigger a civil penalty of up to $11,000. Harding characterized the lapse as 'a simple oversight' and said his disclosure would be filed shortly.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-006",
+        "headline": "Nebraska shortened voter ID provisional ballot cure period from one week to three days under new law",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/state-voting-laws-roundup-may-2026",
+        "publishedAt": "2026-05-19",
+        "relevanceSummary": "A new Nebraska law (part of the LB 1075 elections cleanup package) shortened from seven days to three days the window in which a voter who casts a provisional ballot without valid photo ID can present ID for that ballot to count. Nebraska already enforces a strict photo ID requirement under LB 514 (implemented 2024), and this change tightens the remedy available to voters who cannot produce ID at the polls. A separate provision in the same legislative package repealed the requirement that voters registering simultaneously with a mail ballot request furnish additional identifying documents.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-ne-02-initial",
+      "startedAt": "2026-06-11T19:00:00Z",
+      "completedAt": "2026-06-11T19:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 12,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. All 12 sources verified. NE-02 primary (May 12) is complete and certified June 8: Denise Powell (D, 38.7%) and Brinker Harding (R, unopposed) advance to the November 3 general, with Libertarian Eric Michael Foreman also on the ballot. Powell is the first Latina nominee for NE-02. General election timeline events and Nebraska voting rules (LB 514 photo ID, LB 1075 provisional cure reduction) researched from NE SOS and Neb. Rev. Stat. Ch. 32. All events and rules marked needsReview/unconfirmed pending authoritative 2026-specific confirmation from Douglas, Sarpy, and Saunders county election offices. One conflict identified: no county-level public guidance from Douglas or Sarpy on LB 1075's 3-day cure window for November."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-ne02-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 12,
+      "newUpdates": 0,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 28,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. NE-02 dashboard created post-primary certification. Powell (D) vs. Harding (R) + Foreman (L) is set for November 3 in the open-seat 'blue dot' race. General election timeline covers absentee request opens (July 6), registration deadline (Oct 9), drop boxes open (~Sept 25), in-person early voting (~Oct 4), absentee mail request deadline (Oct 23), Election Day (Nov 3), provisional cure deadline (Nov 6 — 3 days per LB 1075), county canvass (~Nov 24), and SOS certification (~Dec 1). All 12 sources verified. All 16 events and 12 rules flagged needsReview pending county-specific 2026 confirmation. One conflict flagged: no public county guidance on LB 1075 3-day provisional cure window.",
+      "generatedAt": "2026-06-11T19:45:00Z"
+    }
+  }
+}
