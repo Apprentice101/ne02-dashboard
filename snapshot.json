@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T19:45:00Z",
-  "exportedAt": "2026-07-01T05:39:29.257Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:51:19.173Z",
+  "exportedAt": "2026-07-01T20:03:19.812Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -468,7 +468,7 @@
       {
         "id": "rule-ne-voter-id",
         "topic": "Strict photo voter ID requirement (LB 514, 2023/2024)",
-        "currentRule": "Nebraska requires a qualifying government-issued photo ID to vote in person. LB 514 was enacted in 2023 and fully implemented beginning with the May 14, 2024 primary. Acceptable IDs include Nebraska driver's license, state ID, passport, military ID, and tribal ID. Voters without qualifying photo ID may complete a Reasonable Impediment Certificate to cast a provisional ballot, which must be cured within 3 days (see LB 1075 below).",
+        "currentRule": "Nebraska requires a qualifying government-issued photo ID to vote in person. LB 514 was enacted in 2023 and is in effect beginning with the May 14, 2024 statewide primary. Acceptable photo IDs include a Nebraska driver's license, Nebraska state ID, Nebraska college ID, Nebraska political subdivision ID (state, county, city, public school, etc.), United States passport, military ID, tribal ID, and certain hospital, assisted-living facility, intermediate care facility, home and community-based developmental disabilities services, or nursing home records, so long as the ID has the voter’s name and photo and may be expired.[3][2] Voters who appear to vote without an acceptable photo ID may vote provisionally; for that provisional ballot to count, the voter must present an acceptable photo ID to their county election office in person on or before the Tuesday following the election.[3][2] Nebraska’s voter ID materials also reference a reasonable impediment certification as an alternative to presenting valid photo ID in limited circumstances, but this is not described as a separate LB 1075 cure process in the official voter ID guidance.[6][2]",
         "status": "active",
         "whyItMatters": "Every in-person NE-02 voter — at polls in Douglas, Sarpy, or Saunders counties — must present qualifying photo ID or cast a provisional ballot subject to the 3-day cure window. This is a strict-ID state with no non-photo alternatives at the polls for most voters.",
         "governingLevel": "statewide",
@@ -886,17 +886,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-ne-02-initial",
-      "startedAt": "2026-06-11T19:00:00Z",
-      "completedAt": "2026-06-11T19:45:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 12,
-      "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "id": "run-2026-07-01-ne02-auto",
+      "startedAt": "2026-07-01T19:51:07.603Z",
+      "completedAt": "2026-07-01T19:51:19.173Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 13,
+      "updatesCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 11, 2026. All 12 sources verified. NE-02 primary (May 12) is complete and certified June 8: Denise Powell (D, 38.7%) and Brinker Harding (R, unopposed) advance to the November 3 general, with Libertarian Eric Michael Foreman also on the ballot. Powell is the first Latina nominee for NE-02. General election timeline events and Nebraska voting rules (LB 514 photo ID, LB 1075 provisional cure reduction) researched from NE SOS and Neb. Rev. Stat. Ch. 32. All events and rules marked needsReview/unconfirmed pending authoritative 2026-specific confirmation from Douglas, Sarpy, and Saunders county election offices. One conflict identified: no county-level public guidance from Douglas or Sarpy on LB 1075's 3-day cure window for November."
+      "summary": "Automated refresh completed 2026-07-01 for NE-02. Sources checked: 13. LLM verifications: 3. 1 rule/source content change + 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:51:19.173Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
