@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:26:44.664Z",
-  "exportedAt": "2026-07-03T00:37:09.838Z",
+  "updatedAt": "2026-07-03T01:31:25.709Z",
+  "exportedAt": "2026-07-03T01:42:37.371Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -887,16 +887,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-ne02-auto",
-      "startedAt": "2026-07-03T00:26:37.026Z",
-      "completedAt": "2026-07-03T00:26:44.664Z",
+      "startedAt": "2026-07-03T01:31:17.547Z",
+      "completedAt": "2026-07-03T01:31:25.709Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for NE-02. Sources checked: 13. LLM verifications: 3. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:26:44.664Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:31:25.709Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
