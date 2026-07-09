@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:37:19.972Z",
-  "exportedAt": "2026-07-08T20:35:17.767Z",
+  "exportedAt": "2026-07-09T17:04:08.713Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -667,70 +667,70 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-ne-sos-elections",
-        "label": "Nebraska Secretary of State — Elections Division",
-        "url": "https://sos.nebraska.gov/elections-division",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Nebraska elections hub: voter registration, election calendar, results, drop box locator, and 2026 voting rules. Authoritative source for NE-02 election deadlines and procedures. Phone: (402) 471-2555.",
+        "url": "https://sos.nebraska.gov/elections-division",
         "governingAuthority": "Nebraska Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-ne-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-ne-sos-register",
-        "label": "Nebraska online voter registration portal",
-        "url": "https://www.nebraska.gov/apps-sos-voter-registration/",
-        "description": "Register to vote or update your registration online. Deadline for 2026 general election: October 9, 2026. No same-day registration in Nebraska.",
-        "governingAuthority": "Nebraska Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-ne-sos-register",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-ne-sos-results",
-        "label": "Nebraska SOS — Live Election Results",
-        "url": "https://electionresults.nebraska.gov",
-        "description": "Real-time and official election results from the Nebraska Secretary of State, updated throughout the canvass period. Shows NE-02 district-level results for primary and general.",
-        "governingAuthority": "Nebraska Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-ne-sos-results",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-ne-drop-box-locator",
-        "label": "Nebraska Drop Box Locator",
-        "url": "https://sos.nebraska.gov/elections/nebraska-drop-box-locator",
-        "description": "Official map of secure ballot drop box locations across Nebraska counties, including Douglas and Sarpy counties. Updated each election cycle by the Secretary of State.",
-        "governingAuthority": "Nebraska Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-ne-sos-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-douglas-elections",
-        "label": "Douglas County Election Commission",
-        "url": "https://www.votedouglascounty-ne.gov",
+        "id": "res-locations",
+        "label": "Find voting locations",
         "description": "Official elections page for Douglas County (Omaha) — the county containing ~93% of NE-02 voters. Polling place lookup, absentee ballot requests, drop box locations, and canvass updates. 12220 W Center Rd, Omaha. Phone: (402) 444-8683.",
+        "url": "https://www.votedouglascounty-ne.gov",
         "governingAuthority": "Douglas County Election Commission",
         "sourceType": "official-county",
         "sourceId": "src-douglas-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-sarpy-elections",
-        "label": "Sarpy County Election Commission",
-        "url": "https://www.sarpy.gov/elections",
-        "description": "Official elections page for Sarpy County (Papillion, Bellevue, Gretna area). Western Sarpy precincts are in NE-02. Absentee ballot requests, drop box locations. 1102 E. First St., Papillion. Phone: (402) 593-2167.",
-        "governingAuthority": "Sarpy County Election Commission",
-        "sourceType": "official-county",
-        "sourceId": "src-sarpy-elections",
-        "lastVerified": "2026-06-11"
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official Nebraska elections hub: voter registration, election calendar, results, drop box locator, and 2026 voting rules. Authoritative source for NE-02 election deadlines and procedures. Phone: (402) 471-2555.",
+        "url": "https://sos.nebraska.gov/elections-division",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-elections",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Confirm your Nebraska voter registration status.",
+        "url": "https://www.votercheck.necvr.ne.gov/voterview",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track a Nebraska early / mail ballot.",
+        "url": "https://www.votercheck.necvr.ne.gov/voterview",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Real-time and official election results from the Nebraska Secretary of State, updated throughout the canvass period. Shows NE-02 district-level results for primary and general.",
+        "url": "https://electionresults.nebraska.gov",
+        "governingAuthority": "Nebraska Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ne-sos-results",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-saunders-clerk",
         "label": "Saunders County Clerk — Elections",
-        "url": "https://www.saunderscountyne.gov/county-clerk",
         "description": "Official elections page for Saunders County, which was added to NE-02 in the 2021 redistricting (LB1). Wahooo area. Absentee ballot requests and election information for Saunders County NE-02 voters.",
+        "url": "https://www.saunderscountyne.gov/county-clerk",
         "governingAuthority": "Saunders County Clerk",
         "sourceType": "official-county",
         "sourceId": "src-saunders-clerk",
@@ -739,8 +739,8 @@
       {
         "id": "res-ballotpedia-ne02",
         "label": "Ballotpedia — NE-02 2026 election",
-        "url": "https://ballotpedia.org/Nebraska%27s_2nd_Congressional_District_election,_2026",
         "description": "Nonpartisan reference for NE-02's 2026 election: candidate profiles (Powell, Harding, Foreman), primary results, race ratings, campaign finance summary, and district background.",
+        "url": "https://ballotpedia.org/Nebraska%27s_2nd_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-ne02",
@@ -749,8 +749,8 @@
       {
         "id": "res-ne-voter-id-guide",
         "label": "Nebraska Voter ID information — SOS",
-        "url": "https://sos.nebraska.gov/elections/voter-id",
         "description": "Official Nebraska Secretary of State guide to acceptable photo IDs under LB 514 (2023/2024). Includes information on free state IDs and the Reasonable Impediment Certificate process for voters without qualifying ID.",
+        "url": "https://sos.nebraska.gov/elections/voter-id",
         "governingAuthority": "Nebraska Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-ne-sos-elections",
