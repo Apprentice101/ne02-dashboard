@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:37:19.972Z",
-  "exportedAt": "2026-07-09T17:04:08.713Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:25:55.757Z",
+  "exportedAt": "2026-07-15T06:40:43.686Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -62,6 +62,20 @@
           "votes": 103000
         },
         "turnoutPct": 64
+      },
+      "newsDiscoveryHints": {
+        "geographicHint": "NE-02 is the Omaha-area 'blue dot' district: all of Douglas County, western Sarpy County (Bellevue, Papillion, La Vista, Gretna), and Saunders County (Wahoo).",
+        "preferredOutlets": [
+          "Nebraska Examiner",
+          "Flatwater Free Press",
+          "Nebraska Public Media",
+          "KETV",
+          "KMTV 3 News Now",
+          "WOWT",
+          "The Reader (Omaha)",
+          "Omaha World-Herald",
+          "Votebeat"
+        ]
       }
     },
     "SOURCES": {
@@ -74,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -161,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -883,20 +897,30 @@
         "relevanceSummary": "A new Nebraska law (part of the LB 1075 elections cleanup package) shortened from seven days to three days the window in which a voter who casts a provisional ballot without valid photo ID can present ID for that ballot to count. Nebraska already enforces a strict photo ID requirement under LB 514 (implemented 2024), and this change tightens the remedy available to voters who cannot produce ID at the polls. A separate provision in the same legislative package repealed the requirement that voters registering simultaneously with a mail ballot request furnish additional identifying documents.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0sleoap",
+        "headline": "Nebraska Election guide 2026: Senate, congressional races",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/election-day-2026-nebraska-november-midterms/71718070",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "This guide is directly relevant to NE-02 voters because it states Nebraska’s general-election date, polling hours, voter ID requirements, and the early-voting application deadline. Those procedures apply statewide and therefore affect voters in Douglas, western Sarpy, and Saunders counties.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-ne02-auto",
-      "startedAt": "2026-07-08T19:37:18.772Z",
-      "completedAt": "2026-07-08T19:37:19.972Z",
+      "id": "run-2026-07-15-ne02-auto",
+      "startedAt": "2026-07-15T06:25:39.260Z",
+      "completedAt": "2026-07-15T06:25:55.757Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 0,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for NE-02. Sources checked: 13. LLM verifications: 3. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for NE-02. Sources checked: 13. LLM verifications: 4. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:37:19.972Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:25:55.757Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
