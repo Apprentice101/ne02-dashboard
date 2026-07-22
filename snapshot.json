@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:25:55.757Z",
-  "exportedAt": "2026-07-15T06:40:43.686Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:37:20.201Z",
+  "exportedAt": "2026-07-22T06:52:01.100Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -910,17 +910,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-ne02-auto",
-      "startedAt": "2026-07-15T06:25:39.260Z",
-      "completedAt": "2026-07-15T06:25:55.757Z",
+      "id": "run-2026-07-22-ne02-auto",
+      "startedAt": "2026-07-22T06:37:03.947Z",
+      "completedAt": "2026-07-22T06:37:20.201Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 1,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for NE-02. Sources checked: 13. LLM verifications: 4. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for NE-02. Sources checked: 13. LLM verifications: 4. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:25:55.757Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:37:20.201Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
