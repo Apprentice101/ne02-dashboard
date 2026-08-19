@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:35:48.003Z",
-  "exportedAt": "2026-08-12T05:48:42.626Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:51:01.216Z",
+  "exportedAt": "2026-08-19T05:08:46.179Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -947,20 +947,100 @@
         "relevanceSummary": "The Senate’s official roll call shows cloture failed on S. 5271, a bill to require photo identification to vote in federal elections. This is directly relevant to NE-02 voters because it tracks the status of a proposed national voter-ID rule, including mail-ballot ID-copy requirements.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-09vtuni",
+        "headline": "Nebraska 2nd Congressional District: Harding vs. Powell",
+        "sourceName": "Courier Nebraska",
+        "url": "https://couriernebraska.com/news/elections/nebraska-2nd-congressional-district/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This NE-02–specific race profile includes key election logistics for the district, such as the November 3 Election Day, October 5 start of early voting, and October 16 registration deadline, directly informing NE-02 voters when they can register and cast ballots in their congressional contest.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0fvf9nx",
+        "headline": "Signature issues keep Brett Lindstrom off Nebraska governor's ballot, state says",
+        "sourceName": "Ground News (aggregation of Nebraska coverage)",
+        "url": "https://ground.news/article/signature-issues-keep-brett-lindstrom-off-nebraska-governors-ballot-state-says",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "This piece further details how Nebraska election officials reviewed petition signatures and determined a gubernatorial candidate did not qualify for the ballot, shedding light on statewide signature-validation processes and standards that are part of Nebraska’s broader candidate-qualification rules affecting all voters, including those in NE-02.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0ecze8b",
+        "headline": "Lindstrom Fails to Meet Petition Signature Threshold for Governor",
+        "sourceName": "105.3 The Bone",
+        "url": "https://1053thebone.com/2026/08/14/lindstrom-fails-to-meet-petition-signature-threshold-for-governor/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This story explains Nebraska’s statewide petition-signature requirements for gubernatorial candidates and how failing to meet the 4,000 valid-signature threshold keeps a candidate off the ballot, illustrating ballot-access and verification procedures that govern candidate qualification in statewide races important to NE-02 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-07f2v43",
+        "headline": "Early voting in Nebraska: Here's what you need to know",
+        "sourceName": "Courier Nebraska",
+        "url": "https://couriernebraska.com/news/elections/early-voting-in-nebraska-guide/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This guide details how Nebraska voters, including those in NE-02, can request and cast early vote-by-mail ballots, covering application procedures, how to submit forms to county election offices, and key deadlines that affect mail-in and in-person early voting plans.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0oalipk",
+        "headline": "Aug. 13 | Another independent candidate, new party cases",
+        "sourceName": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/series-media/nebraska-update-audio/standalone-audio-16514/aug-13-another-independent-candidate-new-party-cases-50031801/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This statewide update reports on court proceedings over whether newly formed political parties can appear on Nebraska’s ballot and notes an independent congressional candidate qualifying in NE-03, highlighting current litigation and candidate-qualification rules that shape who appears on November ballots across districts, including NE-02.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0afttwf",
+        "headline": "4 key dates to know in Nebraska’s 2026 midterm elections",
+        "sourceName": "Courier Nebraska",
+        "url": "https://couriernebraska.com/news/elections/key-dates-2026-midterm-elections/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This article lists critical statewide deadlines for online, mail, and in-person voter registration and early-voting timelines in Nebraska, giving NE-02 voters the specific dates by which they must register and request ballots for the 2026 general election.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0qw50zg",
+        "headline": "Voting in Nebraska for the first time? Here’s what to know for the 2026 midterms",
+        "sourceName": "Courier Nebraska",
+        "url": "https://couriernebraska.com/news/elections/voting-in-nebraska/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This explainer walks through Nebraska voter registration methods, first-time voter ID and document-copy requirements for mail registration, in-person and absentee ballot procedures, and county election office early-voting rules, providing core procedural information for new NE-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0syvnnz",
+        "headline": "2026 Election Enactments",
+        "sourceName": "National Conference of State Legislatures",
+        "url": "https://www.ncsl.org/elections-and-campaigns/2026-election-enactments",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "This summary of Nebraska LB 1075 explains new statewide rules for voters who fail to present ID at the polls, expanded provisions for replacement mail ballots via an agent, and updated transparency rules for early-voting records and watcher access, all of which directly govern how NE-02 voters will cast and cure ballots in November.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-ne02-auto",
-      "startedAt": "2026-08-12T05:35:38.773Z",
-      "completedAt": "2026-08-12T05:35:48.003Z",
+      "id": "run-2026-08-19-ne02-auto",
+      "startedAt": "2026-08-19T04:50:32.972Z",
+      "completedAt": "2026-08-19T04:51:01.216Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 4,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for NE-02. Sources checked: 13. LLM verifications: 2. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:35:48.003Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:51:01.216Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
