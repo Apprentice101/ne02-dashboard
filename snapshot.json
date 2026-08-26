@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:51:01.216Z",
-  "exportedAt": "2026-08-19T05:08:46.179Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:55:45.239Z",
+  "exportedAt": "2026-08-26T05:16:45.213Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1027,20 +1027,100 @@
         "relevanceSummary": "This summary of Nebraska LB 1075 explains new statewide rules for voters who fail to present ID at the polls, expanded provisions for replacement mail ballots via an agent, and updated transparency rules for early-voting records and watcher access, all of which directly govern how NE-02 voters will cast and cure ballots in November.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0erpyb9",
+        "headline": "New Postal Service Rule Still Up In The Air After Supreme Court Ruling—What To Know Before Midterms",
+        "sourceName": "Forbes",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/08/24/will-new-usps-rule-impact-your-ballot-in-november-what-to-know/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "Forbes breaks down the new USPS ballot rule, explaining that state and local officials must submit voter information and ballot barcodes at least 30 days before Election Day, while reiterating that voters in Nebraska’s 2nd District will still follow the same state processes to request mail ballots but may benefit from earlier registration and requests.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0h3mdmu",
+        "headline": "Supreme Court backs Trump order restricting mail-in voting with three justices dissenting",
+        "sourceName": "Nebraska.tv",
+        "url": "https://nebraska.tv/news/nation-world/supreme-court-backs-trump-order-restricting-mail-in-voting-with-three-justices-dissenting-november-democrat-republican-sued-legal-identification-voters-voter-status-us-postal-service",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "Nebraska.tv covers the Supreme Court’s decision upholding an executive order directing the creation of lists of eligible voters and limiting USPS delivery of mail ballots to those on the lists, a nationwide rule that will shape how mail ballots are processed for NE-02 voters and could interact with Nebraska’s existing absentee procedures.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0v4e27w",
+        "headline": "USPS moves ahead with mail-in ballot rule despite block from judge",
+        "sourceName": "New York Post",
+        "url": "https://nypost.com/2026/08/22/us-news/usps-moves-ahead-with-mail-in-ballot-rule-despite-block-from-obama-appointed-judge/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This article reports that USPS is implementing a requirement that states enroll mail voters on a federal Mail-In and Absentee Participation List and use uniquely serialized barcodes on outbound and return ballots, signaling procedural changes Nebraska officials—including those serving NE-02—must navigate for November’s mail voting.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0wdy99q",
+        "headline": "US Postal Service rule tightens mail-in voting despite court order",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This story details how the USPS is moving ahead with a federal rule requiring states to provide names and barcodes tied to mail-in ballots for federal elections, which could change back-end procedures for mail ballots used by NE-02 voters even though state eligibility rules for vote-by-mail remain unchanged.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0qqlnxy",
+        "headline": "USPS publishes new rule requiring states to submit voter data before mailing ballots",
+        "sourceName": "TurnTo10 / Sinclair Broadcast Group",
+        "url": "https://turnto10.com/news/nation-world/usps-publishes-new-rule-requiring-states-to-submit-voter-data-before-mailing-ballots-mail-in-united-states-postal-service-vote-voters-voter-fraud-politics-president-donald-trump",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This article explains a new U.S. Postal Service rule requiring states, including Nebraska, to submit voter and ballot-tracking information through a federal portal before mail-in and absentee ballots can enter the mailstream, affecting how NE-02 election officials handle mail ballot logistics and timelines.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0hcz4uq",
+        "headline": "Nebraska Republicans, Democrats Appeal New-Party Rulings to State Supreme Court",
+        "sourceName": "KLIN / Nebraska Examiner reporting",
+        "url": "https://klin.com/2026/08/21/nebraska-republicans-democrats-appeal-new-party-rulings-to-state-supreme-court/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This article explains that Nebraska’s major parties have appealed rulings related to recognition of a new state party, a legal dispute that could affect which parties and candidates appear on the November ballot across Nebraska, including for NE-02 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0d4py0o",
+        "headline": "Petition Fraud Expands to All 2026 Nebraska-Wide Ballot Measures",
+        "sourceName": "HeartlandBeat",
+        "url": "https://heartlandbeat.com/2026/08/petition-fraud-expands-to-all-2026-nebraska-wide-ballot-measures/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "HeartlandBeat reports that Nebraska Secretary of State Bob Evnen must confirm by Sept. 11 whether statewide ballot measures have enough valid signatures to be certified for the November ballot, a process that will determine which initiatives NE-02 voters can vote on and underscores ongoing scrutiny of petition procedures.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-08tkvaw",
+        "headline": "Judge Clears Path for Two New Nebraska Political Parties to Join Fall Ballot",
+        "sourceName": "KLIN / Nebraska Examiner reporting",
+        "url": "https://klin.com/2026/08/20/judge-clears-path-for-two-new-nebraska-political-parties-to-join-fall-ballot/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This report describes a Lancaster County judge’s decision allowing two new Nebraska political parties to continue efforts to place candidates on the November ballot, affecting statewide candidate options and ballot composition that NE-02 voters will see in the general election.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-ne02-auto",
-      "startedAt": "2026-08-19T04:50:32.972Z",
-      "completedAt": "2026-08-19T04:51:01.216Z",
+      "id": "run-2026-08-26-ne02-auto",
+      "startedAt": "2026-08-26T04:55:19.450Z",
+      "completedAt": "2026-08-26T04:55:45.239Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:51:01.216Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:55:45.239Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
