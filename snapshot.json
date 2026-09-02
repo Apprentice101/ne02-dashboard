@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:55:45.239Z",
-  "exportedAt": "2026-08-26T05:16:45.213Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:43:56.369Z",
+  "exportedAt": "2026-09-02T09:10:28.917Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -124,7 +124,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-douglas-elections": {
@@ -1107,20 +1107,90 @@
         "relevanceSummary": "This report describes a Lancaster County judge’s decision allowing two new Nebraska political parties to continue efforts to place candidates on the November ballot, affecting statewide candidate options and ballot composition that NE-02 voters will see in the general election.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-078fxlq",
+        "headline": "Nebraska election preview, 2026",
+        "sourceName": "Ballotpedia",
+        "url": "https://ballotpedia.org/Nebraska_election_preview,_2026",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This statewide election preview includes a section addressing whether Nebraska voters must present identification at polling places and what types are accepted, giving NE-02 voters a high-level explanation of current voter-ID rules as they prepare for the November general election.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-00xzw86",
+        "headline": "Daily Brew: September 1, 2026",
+        "sourceName": "Ballotpedia",
+        "url": "https://ballotpedia.org/Daily_Brew:_September_1,_2026",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This entry summarizes key November 3, 2026 general election procedures, including the October 5–November 2 in-person early voting window, Election Day polling hours, the requirement to show voter ID, the deadline to request absentee/mail ballots, and return-by deadlines, offering NE-02 voters a concise statewide schedule of early voting, mail-ballot, and voter-ID rules.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0t77bel",
+        "headline": "Douglas County Election Commission looking for temporary employees ahead 2026 election",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/08/29/douglas-county-election-commission-looking-temporary-employees-ahead-2026-election/",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "This article reports that the Douglas County Election Commission, which administers elections for much of NE-02 including Omaha, is hiring temporary workers ahead of the 2026 election and provides contact information for voters who have questions about voting logistics, indicating ongoing preparations that can affect polling-place staffing, ballot processing, and overall election administration in the district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0xciiva",
+        "headline": "Nebraska",
+        "sourceName": "VoteRiders",
+        "url": "https://voteriders.org/states/nebraska/",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This statewide voter resource page details Nebraska’s photo ID requirements for in-person voting and ID/ID-number requirements for voting by mail, including what counts as acceptable identification, how voters with disabilities or religious objections can use a reasonable-impediment declaration, and how to ensure a provisional ballot counts—information that directly governs voter-ID rules for NE-02 voters and should be tagged for quick discovery.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-07i9w8p",
+        "headline": "US Postal Service says new mail ballot rules tied to Trump order are in effect",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/27/us-postal-service-mail-ballot-rules-trump-order",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This piece reports that the U.S. Postal Service has implemented new mail-ballot handling rules linked to a Trump executive order aimed at tightening mail voting, outlining changes in how ballot envelopes are processed and delivered; these nationwide USPS changes can affect mail-ballot timing and reliability for Nebraska voters in NE-02 who plan to vote by mail.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0nk25fv",
+        "headline": "Federal judge removes major legal obstacle to Trump mail voting order, with more challenges likely",
+        "sourceName": "News Channel Nebraska Southeast",
+        "url": "https://southeast.newschannelnebraska.com/story/359205860/federal-judge-removes-major-legal-obstacle-to-trump-mail-voting-order-with-more-challenges-likely-1",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This article explains that a federal judge has removed a major legal obstacle to a Trump administration mail-voting order, with additional challenges expected, and discusses how the new federal requirements interact with state mail-ballot procedures—information that could influence how Nebraska, including NE-02, must handle mail-in ballots and USPS-related rules going into the November election.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0z8ngwi",
+        "headline": "Nebraska mail-in voting unaffected by U.S. Supreme Court ruling, election official says",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/08/26/nebraska-mail-in-voting-unaffected-by-us-supreme-court-ruling-election-official-says/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This story explains that Nebraska's vote-by-mail procedures for the November 3, 2026 general election will remain the same despite a recent U.S. Supreme Court ruling, with state and county officials saying there are 'no changes to the by-mail voting process' and that they will continue following current state law and Secretary of State guidance—directly affecting all NE-02 voters who plan to vote early or by mail.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-ne02-auto",
-      "startedAt": "2026-08-26T04:55:19.450Z",
-      "completedAt": "2026-08-26T04:55:45.239Z",
+      "id": "run-2026-09-02-ne02-auto",
+      "startedAt": "2026-09-02T08:43:11.491Z",
+      "completedAt": "2026-09-02T08:43:56.369Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 8,
+      "sourcesChecked": 12,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for NE-02. Sources checked: 12. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:55:45.239Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:43:56.369Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
