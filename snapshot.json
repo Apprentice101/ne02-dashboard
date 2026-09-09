@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:43:56.369Z",
-  "exportedAt": "2026-09-02T09:10:28.917Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:57:07.658Z",
+  "exportedAt": "2026-09-09T09:21:00.234Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1177,20 +1177,90 @@
         "relevanceSummary": "This story explains that Nebraska's vote-by-mail procedures for the November 3, 2026 general election will remain the same despite a recent U.S. Supreme Court ruling, with state and county officials saying there are 'no changes to the by-mail voting process' and that they will continue following current state law and Secretary of State guidance—directly affecting all NE-02 voters who plan to vote early or by mail.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-07gt4yy",
+        "headline": "Nebraska Supreme Court justice rejects Democratic objection to new party’s Senate candidate",
+        "sourceName": "Nebraska Examiner",
+        "url": "https://nebraskaexaminer.com/briefs/nebraska-supreme-court-judge-rejects-democratic-objection-to-new-partys-senate-candidate/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "A Nebraska Supreme Court justice rejected a Democratic challenge to a new party’s U.S. Senate candidate and noted the looming Sept. 11 deadline for statewide ballot certification. This is relevant to NE-02 voters because it clarifies candidate qualification and confirms that this Senate race will appear on their November general-election ballots under current law.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-062qgo2",
+        "headline": "Nebraska Supreme Court Won’t Invalidate Initiative that Passed in 2024",
+        "sourceName": "Ballot Access News",
+        "url": "https://ballot-access.org/2026/09/05/nebraska-supreme-court-wont-invalidate-initiative-that-passed-in-2024/",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "The Nebraska Supreme Court declined to invalidate a voter-approved 2024 medical marijuana initiative after opponents failed to show enough petition signatures were legally invalid. While focused on a specific policy, this decision matters procedurally for NE-02 voters because it reinforces how courts treat petition signature challenges and the durability of ballot initiatives once certified.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0lidqrp",
+        "headline": "Pre-Processing Timelines, Update Fall 2026 – Nebraska",
+        "sourceName": "Election Innovation Lab",
+        "url": "https://electioninnovation.org/research/pre-processing-timelines/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This technical update summarizes Nebraska’s statewide rules for when election officials may begin processing and scanning mail ballots: envelope processing can start on the second Friday before Election Day, and ballot scanning may begin 24 hours before polls open, with counting boards allowed to open verified identification envelopes at that time. These timelines directly shape how quickly NE-02 voters’ mail ballots are handled and reported.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0rbssxu",
+        "headline": "Nebraska Supreme Court Upholds Voter-Approved Medical Cannabis Laws",
+        "sourceName": "Froggy 98.1 (citing Nebraska Examiner)",
+        "url": "https://froggy981.com/2026/09/04/nebraska-supreme-court-upholds-voter-approved-medical-cannabis-laws/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This coverage explains that Nebraska’s high court affirmed a ruling upholding voter-approved medical cannabis initiatives because challenges did not demonstrate enough invalid petition signatures. For NE-02 voters, it underscores the standards courts apply to post-election challenges to initiatives, which impacts confidence in ballot-access and canvass procedures statewide.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-01hghq2",
+        "headline": "Governor, Secretary of State and Election Officials Host News Conference on Ballot Petition Process",
+        "sourceName": "Nebraska Secretary of State (via EIN Presswire)",
+        "url": "https://www.einpresswire.com/article/939590173/governor-secretary-of-state-and-election-officials-host-news-conference-on-ballot-petition-process",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This statewide news conference explains Nebraska’s petition and signature verification process, highlighting how county election officials, including Douglas County, rigorously match petition signatures against the centralized voter registration database to verify active voter status, addresses, dates of birth, and signatures. This matters to NE-02 voters because it clarifies how ballot initiatives qualify for the November ballot and shows the level of election administration scrutiny in their own counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0j3tl66",
+        "headline": "Verify Your Voter Registration",
+        "sourceName": "Reddit r/Omaha (community post citing Nebraska Secretary of State and Douglas County Election Commission)",
+        "url": "https://www.reddit.com/r/Omaha/comments/1w6a9d3/verify_your_voter_registration/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This Omaha-focused post, referencing official Nebraska Secretary of State materials, explains acceptable voter ID types, clarifies that poll workers verify name and photo rather than address, and describes local options for voting by mail using official drop boxes in Douglas County instead of the Postal Service. It is directly relevant to NE-02 voters because it summarizes current voter-ID practices and early voting/drop box locations in their home counties.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-00xivir",
+        "headline": "Pillen, Evnen, county election officials call for changes to Nebraska petition circulator laws",
+        "sourceName": "News From The States",
+        "url": "https://www.newsfromthestates.com/article/pillen-evnen-county-election-officials-call-changes-nebraska-petition-circulator-laws",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This article details proposals by the governor, secretary of state, and county election officials to change Nebraska’s petition circulator laws, including how signatures are verified line by line against voter records and checked for name, date of birth, address, and signature characteristics. NE-02 voters are affected because any changes to petition and verification rules will alter how statewide initiatives and candidate petitions reach their ballots.",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-ne02-auto",
-      "startedAt": "2026-09-02T08:43:11.491Z",
-      "completedAt": "2026-09-02T08:43:56.369Z",
+      "id": "run-2026-09-09-ne02-auto",
+      "startedAt": "2026-09-09T08:56:24.981Z",
+      "completedAt": "2026-09-09T08:57:07.658Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 13,
       "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for NE-02. Sources checked: 12. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:43:56.369Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:57:07.658Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
