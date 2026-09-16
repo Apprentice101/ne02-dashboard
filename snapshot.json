@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:57:07.658Z",
-  "exportedAt": "2026-09-09T09:21:00.234Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:24:26.242Z",
+  "exportedAt": "2026-09-16T09:52:33.078Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -124,7 +124,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-douglas-elections": {
@@ -1247,20 +1247,100 @@
         "relevanceSummary": "This article details proposals by the governor, secretary of state, and county election officials to change Nebraska’s petition circulator laws, including how signatures are verified line by line against voter records and checked for name, date of birth, address, and signature characteristics. NE-02 voters are affected because any changes to petition and verification rules will alter how statewide initiatives and candidate petitions reach their ballots.",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0ilzilc",
+        "headline": "New online voter registration system unveiled for Nebraskans",
+        "sourceName": "Ground News (aggregation of local reporting)",
+        "url": "https://ground.news/article/new-online-voter-registration-system-unveiled-for-nebraskans_e32e84",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "This piece highlights the statewide rollout of Nebraska’s new online voter registration and information system, reinforcing how NE-02 voters can use the platform to manage their registration and check ballot status ahead of the November general election. As a statewide administrative change, it affects all voters, including those in Douglas, Sarpy, and Saunders Counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0ndbraw",
+        "headline": "Nebraska Launches New Online Voter Registration System",
+        "sourceName": "KLIN",
+        "url": "https://klin.com/2026/09/15/640141/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide story explains that Nebraska has launched a new online voter registration and voter-check platform where voters in NE-02 can register, update their registration, change party affiliation, find their polling place, and track early or provisional ballots. It also notes online registration deadlines and clarifies that in-person registration at county election offices is still available after the online cutoff.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0uq20fm",
+        "headline": "Nebraska, Iowa election officials host Voter Registration Day events",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/09/15/nebraska-iowa-election-officials-host-voter-registration-day-events/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This local report outlines voter registration opportunities, early-voting applications, and secure ballot drop box locations, including 13 ballot drop-off sites in Douglas County and seven in Sarpy County, which directly serve NE-02 voters. It also reminds voters that Nebraska requires voter ID and that ballots returned by mail, drop box, or in person must arrive by 8 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0kqg4jj",
+        "headline": "Voter ID laws and electronic poll books advanced in Nebraska",
+        "sourceName": "Nebraska.TV (topic page on voter ID laws)",
+        "url": "https://nebraska.tv/topic/Voter%20ID%20laws",
+        "publishedAt": "2026-09-12",
+        "relevanceSummary": "This coverage notes that lawmakers have advanced a measure that would allow Nebraska counties to use electronic poll books to identify eligible voters instead of traditional paper lists, in the context of the state’s voter ID laws. Such a change would directly affect check-in procedures at polling places in NE-02 and interact with voter ID requirements for in-person voting.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-09p5vbi",
+        "headline": "Acceptable identification under Nebraska’s new voter ID law",
+        "sourceName": "Nebraska.TV (topic page referencing Secretary of State guidance)",
+        "url": "https://nebraska.tv/topic/Acceptable%20identification",
+        "publishedAt": "2026-09-12",
+        "relevanceSummary": "This topic coverage discusses acceptable identification under Nebraska’s new voter ID requirements, including Secretary of State Bob Evnen’s guidance and predicted turnout under the law, which applies statewide to all voters in NE-02. It helps voters understand what IDs are required at the polls and, by extension, what they must bring to vote under the new rules.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0v8e3yk",
+        "headline": "Nebraska Certifies Nov 3 General Election Ballot",
+        "sourceName": "KLIN",
+        "url": "https://klin.com/2026/09/11/nebraska-certifies-nov-3-general-election-ballot/",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This report notes that Secretary of State Bob Evnen has certified the final list of candidates and statewide ballot measures for the November 3 general election, and that ballots must be sent to military and overseas voters by mid-September. Certification establishes which candidates and measures NE-02 voters will see and triggers ballot preparation and mailing timelines relevant to early and absentee voting.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0q9v0xa",
+        "headline": "Nebraska Supreme Court Issues Two Rulings Affecting November Ballot",
+        "sourceName": "KLIN",
+        "url": "https://klin.com/2026/09/11/nebraska-supreme-court-issues-two-rulings-affecting-november-ballot/",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This article reports that the Nebraska Supreme Court issued rulings on how vacancies on the ballot can be filled by political parties, clarifying that parties are permitted but not required to fill certain candidate vacancies. These legal decisions shape candidate qualification and ballot access for the November general election statewide, including contests appearing on NE-02 voters’ ballots.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-04gpwia",
+        "headline": "Help shape the new Douglas County website",
+        "sourceName": "Douglas County (official county communication)",
+        "url": "https://www.douglasco.gov/help-shape-the-new-douglas-county-website/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This Douglas County notice references how election information such as ballot drop box locations and voter service and polling centers will be organized on the updated county website, which NE-02 voters rely on for procedural details. Changes to navigation and access to these resources can affect how easily voters in Omaha and the rest of Douglas County find critical election procedure information.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-ne02-auto",
-      "startedAt": "2026-09-09T08:56:24.981Z",
-      "completedAt": "2026-09-09T08:57:07.658Z",
+      "id": "run-2026-09-16-ne02-auto",
+      "startedAt": "2026-09-16T09:23:59.729Z",
+      "completedAt": "2026-09-16T09:24:26.242Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 7,
+      "sourcesChecked": 12,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for NE-02. Sources checked: 12. LLM verifications: 2. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:57:07.658Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:24:26.242Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
