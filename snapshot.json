@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:24:26.242Z",
-  "exportedAt": "2026-09-16T09:52:33.078Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:18:58.768Z",
+  "exportedAt": "2026-09-23T09:38:40.383Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1327,20 +1327,60 @@
         "relevanceSummary": "This Douglas County notice references how election information such as ballot drop box locations and voter service and polling centers will be organized on the updated county website, which NE-02 voters rely on for procedural details. Changes to navigation and access to these resources can affect how easily voters in Omaha and the rest of Douglas County find critical election procedure information.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0xw272m",
+        "headline": "Which voter ID rules have changed since 2022? Here's what you need for the 2026 midterms",
+        "sourceName": "MEAWW",
+        "url": "https://news.meaww.com/which-voter-id-rules-have-changed-since-2022-heres-what-you-need-for-the-2026-midterms",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The article explains Nebraska’s acceptable photo IDs and the provisional-ballot process for voters who lack qualifying identification. It says voters without ID generally have until the Friday after Election Day to return to election officials with acceptable ID, reflecting Nebraska’s statewide voter-ID rules.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0buiw0g",
+        "headline": "Here’s what you can expect from Flatwater this election season",
+        "sourceName": "Flatwater Free Press",
+        "url": "https://flatwaterfreepress.org/heres-what-you-can-expect-from-flatwater-this-election-season/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The election-season resource directs Nebraska voters to Civic Nebraska’s Ballot Builder, which helps users see what will appear on their ballot and organize voting information. The statewide resource is relevant to NE-02 voters preparing for the November election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0t9b3nr",
+        "headline": "Nebraska Examiner launches 2026 General Election Voter Guide",
+        "sourceName": "Nebraska Examiner",
+        "url": "https://nebraskaexaminer.com/2026/09/17/nebraska-examiner-launches-2026-general-election-voter-guide/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The guide covers Nebraska’s Nov. 3 general election and notes that Secretary of State Bob Evnen certified the ballot on Sept. 11; certified ballots for military and overseas voters were due to be sent by Sept. 18. These statewide procedures apply to NE-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-05pzaym",
+        "headline": "Local4's Four Things You Need to Know for September 16, 2026",
+        "sourceName": "KNSB Local 4",
+        "url": "https://www.ksnblocal4.com/2026/09/16/local4s-four-things-you-need-know-september-16-2026/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Nebraska unveiled a redesigned online platform combining voter registration and status tracking. Voters can register, update their address, change party affiliation, check ballot status, and find polling sites; the online registration deadline for the November general election is Oct. 16.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-ne02-auto",
-      "startedAt": "2026-09-16T09:23:59.729Z",
-      "completedAt": "2026-09-16T09:24:26.242Z",
+      "id": "run-2026-09-23-ne02-auto",
+      "startedAt": "2026-09-23T09:18:42.154Z",
+      "completedAt": "2026-09-23T09:18:58.768Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
-      "updatesCreated": 8,
+      "sourcesChecked": 13,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for NE-02. Sources checked: 12. LLM verifications: 2. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:24:26.242Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:18:58.768Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
