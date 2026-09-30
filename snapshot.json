@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:18:58.768Z",
-  "exportedAt": "2026-09-23T09:38:40.383Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:22:38.729Z",
+  "exportedAt": "2026-09-30T10:39:08.990Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1367,20 +1367,70 @@
         "relevanceSummary": "Nebraska unveiled a redesigned online platform combining voter registration and status tracking. Voters can register, update their address, change party affiliation, check ballot status, and find polling sites; the online registration deadline for the November general election is Oct. 16.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-07x1q9y",
+        "headline": "Lancaster County Begins Mailing Early Ballots for November Election",
+        "sourceName": "KLIN",
+        "url": "https://klin.com/2026/09/28/lancaster-county-begins-mailing-early-ballots-for-november-election/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Although from Lancaster County, the article explains a Nebraska-wide mail-ballot procedure: the ballot-return envelope must be signed by the voter personally, and voters can check ballot status online. The same statewide requirements apply to NE-02 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0mzbli6",
+        "headline": "Sept. 28 | Cameron Capitol statue, by-mail voting",
+        "sourceName": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/series-media/nebraska-update-audio/standalone-audio-16514/sept-28-cameron-capitol-statue-by-mail-voting-50032152/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The Nebraska Public Media update reports on Omaha postal workers promoting mail-in voting ahead of the November election, providing locally relevant information about using mail ballots in NE-02.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-00eyhfe",
+        "headline": "Early vote ballots mailed out starting today for Statewide General Election",
+        "sourceName": "KLKN-TV",
+        "url": "https://www.klkntv.com/early-vote-ballots-mailed-out-starting-today-for-statewide-general-election/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Nebraska voters can request an early-voting ballot by mail for the November 3 statewide general election through October 23. The statewide deadline applies directly to NE-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-01d2tfb",
+        "headline": "Douglas County Election Commission Reminders",
+        "sourceName": "NewsRadio 1110 KFAB",
+        "url": "https://kfab.iheart.com/content/2026-09-28-douglas-county-election-commission-reminders/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Douglas County voters, including those in NE-02, are reminded that mail ballots began going out September 28, applications are due by October 23 at 6:00 p.m., and in-person early voting begins October 5. The article also explains polling-place verification and Nebraska’s photo-ID requirement for in-person voting.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-022ky17",
+        "headline": "Chronicle: Elections Get the Facts",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/chronicle-elections-get-the-facts/73878009",
+        "publishedAt": "2026-09-27",
+        "relevanceSummary": "The program covers Nebraska’s 2026 ballot, mail-in voting, and election security, with information from the Secretary of State and the Douglas and Sarpy County election commissioners—officials whose procedures directly affect NE-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-ne02-auto",
-      "startedAt": "2026-09-23T09:18:42.154Z",
-      "completedAt": "2026-09-23T09:18:58.768Z",
+      "id": "run-2026-09-30-ne02-auto",
+      "startedAt": "2026-09-30T10:22:25.971Z",
+      "completedAt": "2026-09-30T10:22:38.729Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 4,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for NE-02. Sources checked: 13. LLM verifications: 2. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:18:58.768Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:22:38.729Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
