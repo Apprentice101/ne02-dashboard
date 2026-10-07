@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:22:38.729Z",
-  "exportedAt": "2026-09-30T10:39:08.990Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:58:17.382Z",
+  "exportedAt": "2026-10-07T11:14:09.258Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1417,20 +1417,70 @@
         "relevanceSummary": "The program covers Nebraska’s 2026 ballot, mail-in voting, and election security, with information from the Secretary of State and the Douglas and Sarpy County election commissioners—officials whose procedures directly affect NE-02 voters.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-01kle4d",
+        "headline": "Early voting in Douglas County begins: Here's how to vote by mail",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/early-voting-douglas-county-mail-in-ballots/74005319",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article provides mail-ballot procedures for NE-02 voters in Douglas County, including the October 23 application deadline, USPS timing guidance, and use of the county’s 13 drop boxes, which are collected daily.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0bsko2f",
+        "headline": "Early voting begins in Douglas County for 2026 general election",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/early-voting-begins-in-douglas-county-for-2026-general-election/74038790",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "Douglas County is entirely within NE-02. The article says in-person early voting is available at the Election Commission during weekday business hours, online and in-person registration remains available, and Nebraska’s voter-ID law requires an acceptable photo ID for in-person voting; mail voters satisfy the ID requirement on the ballot application.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0yopx9l",
+        "headline": "Here's your guide to early voter registration and requirements",
+        "sourceName": "KTIV",
+        "url": "https://www.ktiv.com/2026/10/02/decision-2026-heres-your-guide-early-voter-registration-requirements/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "This Nebraska voter-information guide explains registration methods and deadlines and lists acceptable photo IDs, including Nebraska driver’s licenses, state IDs, college IDs, qualifying care-facility records, military IDs, tribal IDs, and U.S. passports. The statewide rules apply to NE-02 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0920542",
+        "headline": "Nebraska and Iowa voter registration deadlines near as metro-area voters prep for November election",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/nebraska-iowa-voter-registration-midterm-elections/73889664",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The article reports that Nebraska registration applications must be submitted by October 23 and highlights the Secretary of State’s new online registration platform and Douglas County in-person registration option, directly affecting NE-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0klb4hl",
+        "headline": "2026 General Election ballots are on the way",
+        "sourceName": "Douglas County",
+        "url": "https://www.douglasco.gov/2026-general-election-ballots-are-on-the-way/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "Douglas County’s official notice states that completed ballots returned by mail, drop box, or a Voter Service and Polling Center must be received by 7 p.m. on November 3, 2026; an Election Day postmark does not count.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-ne02-auto",
-      "startedAt": "2026-09-30T10:22:25.971Z",
-      "completedAt": "2026-09-30T10:22:38.729Z",
+      "id": "run-2026-10-07-ne02-auto",
+      "startedAt": "2026-10-07T10:57:59.476Z",
+      "completedAt": "2026-10-07T10:58:17.382Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
       "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for NE-02. Sources checked: 13. LLM verifications: 2. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:22:38.729Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:58:17.382Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
