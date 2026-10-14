@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:58:17.382Z",
-  "exportedAt": "2026-10-07T11:14:09.258Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:21:34.973Z",
+  "exportedAt": "2026-10-14T09:33:46.116Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1467,20 +1467,60 @@
         "relevanceSummary": "Douglas County’s official notice states that completed ballots returned by mail, drop box, or a Voter Service and Polling Center must be received by 7 p.m. on November 3, 2026; an Election Day postmark does not count.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0t0hfux",
+        "headline": "How to vote in Nebraska General Election",
+        "sourceName": "Democracy Works",
+        "url": "https://voting.democracy.works/en/elections/ne/2026-11-03.html",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "This Nebraska voter guide explains registration, early voting, mail-ballot requests, and voter-ID requirements applicable to NE-02 voters. It lists acceptable photo IDs, says voters without ID may cast a provisional ballot, and identifies October 23 as the mail-ballot request deadline.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0ludl26",
+        "headline": "Three weeks out from the November election, write-in candidate and voter participation deadlines approach",
+        "sourceName": "Ballotpedia",
+        "url": "https://news.ballotpedia.org/2026/10/13/three-weeks-out-from-the-november-election-write-in-candidate-and-voter-participation-deadlines-approach/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The Nebraska-focused deadline summary says October 16 is the deadline to register by mail or online, October 23 is the in-person registration deadline, and October 23 is also the deadline to request an absentee or mail ballot for the November 3 general election.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0uuld8f",
+        "headline": "‘Important for the community to know that this is out there’: How visually impaired people can vote independently in Nebraska",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/nebraska-voting-options-for-visually-impaired/74085980",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Douglas County election officials demonstrated accessible voting machines for blind and visually impaired voters. The machines are available in every Nebraska county, including counties serving NE-02, and also support voters with mobility impairments.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0oj20yh",
+        "headline": "Early voters cast ballots in new-look Douglas County Election Commission office",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/10/09/early-voters-cast-ballots-new-look-douglas-county-election-commission-office/",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "The article covers early voting in Douglas County, which includes all of NE-02, and provides deadlines for requesting and returning mail ballots. It says the last day to apply for a ballot by mail is October 23 and provides election-office contact information for Douglas and Sarpy counties.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-ne02-auto",
-      "startedAt": "2026-10-07T10:57:59.476Z",
-      "completedAt": "2026-10-07T10:58:17.382Z",
+      "id": "run-2026-10-14-ne02-auto",
+      "startedAt": "2026-10-14T09:21:22.643Z",
+      "completedAt": "2026-10-14T09:21:34.973Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 5,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:58:17.382Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:21:34.973Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
