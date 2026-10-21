@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:21:34.973Z",
-  "exportedAt": "2026-10-14T09:33:46.116Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:11:53.838Z",
+  "exportedAt": "2026-10-21T09:23:30.373Z",
   "districtCode": "NE-02",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-ne-sos-register": {
@@ -175,7 +175,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-ne-public-media": {
@@ -1507,20 +1507,80 @@
         "relevanceSummary": "The article covers early voting in Douglas County, which includes all of NE-02, and provides deadlines for requesting and returning mail ballots. It says the last day to apply for a ballot by mail is October 23 and provides election-office contact information for Douglas and Sarpy counties.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0nb5abd",
+        "headline": "Voting Deadlines In Douglas County",
+        "sourceName": "KFAB",
+        "url": "https://kfab.iheart.com/content/2026-10-19-voting-deadlines-in-douglas-county/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article reports Douglas County deadlines to register, update registration, or request a mail ballot, along with early-voting hours, ballot return options, polling-place lookup, and Nebraska’s photo-ID requirements. These procedures directly affect NE-02 voters in Douglas County.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0gzbgz0",
+        "headline": "Early in-person voting nearly triples in Douglas County compared to 2022 midterms, officials say",
+        "sourceName": "3 News Now",
+        "url": "https://www.3newsnow.com/west-omaha/early-in-person-voting-nearly-triples-in-douglas-county-compared-to-last-midterms",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "Douglas County officials reported a substantial increase in early in-person voting and identified October 23 at 6 p.m. as the final deadline for in-person voter registration at the Election Commission. The coverage is directly relevant to NE-02 voters seeking early-voting or registration information.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0obqctx",
+        "headline": "Douglas County Election Commission warns of false information circulating on social media",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/10/16/douglas-county-election-commission-warns-false-information-circulating-social-media/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The Douglas County Election Commission addressed election-related misinformation and clarified that poll workers initial the bottom portion of ballot pages under Nebraska law. Douglas County includes much of NE-02.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-00021f9",
+        "headline": "The Nebraska Election Interference Law Handbook",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/nebraska-election-interference-law-handbook",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The handbook summarizes Nebraska rules allowing early-voting ballots to be returned by mail or delivered to election officials, including through secure county drop boxes, and describes restrictions around ballot boxes and counting areas. These statewide rules apply to NE-02 voters.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0xulc5k",
+        "headline": "Hall County early voting underway ahead of Nov. 3 election",
+        "sourceName": "KSNB Local 4",
+        "url": "https://www.ksnblocal4.com/2026/10/15/hall-county-early-voting-underway-ahead-nov-3-election/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "Hall County election officials explained early-voting procedures, ballot initials, ballot replacement for damaged ballots, and extended early-voting hours. Although outside NE-02, it provides relevant Nebraska statewide procedural information under state law.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ne02-0g9mh8w",
+        "headline": "FBI, USPS investigate white powder mailings to election",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/fbi-usps-investigate-white-powder-mailing/74147307",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The Douglas County Election Commission said it uses a still-air box to open potentially suspicious mail during an investigation involving election-related mailings. The incident may affect election-office operations and mail-ballot handling in NE-02.",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-ne02-auto",
-      "startedAt": "2026-10-14T09:21:22.643Z",
-      "completedAt": "2026-10-14T09:21:34.973Z",
+      "id": "run-2026-10-21-ne02-auto",
+      "startedAt": "2026-10-21T09:11:41.365Z",
+      "completedAt": "2026-10-21T09:11:53.838Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 4,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for NE-02. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:21:34.973Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:11:53.838Z",
     "WEEKLY_REPORT": {
       "id": "wr-ne02-2026-w24",
       "periodStart": "2026-06-08",
